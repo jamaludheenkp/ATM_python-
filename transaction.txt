@@ -1,0 +1,2 @@
+withdrawal:10.0		Now Available Balance is: 40.15
+deposited:60.0		Now Available Balance is: 110.15
